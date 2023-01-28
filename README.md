@@ -13,4 +13,4 @@ if __name__ == '__main__':
 
 # в config
 
-token = '5653495703:AAGixR2wiesHYJfTKfxNizf6SY0IAE7DWxQh'
+token = ''
